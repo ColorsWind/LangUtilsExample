@@ -1,0 +1,6 @@
+name: LangUtilsExample
+version: '${project.version}'
+depend: [LangUtils]
+main: net.colors_wind.langutilsexample.LangUtilsExample
+api-version: '1.13'
+
